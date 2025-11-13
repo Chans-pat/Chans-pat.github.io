@@ -1,4 +1,3 @@
-# Chans-pat.github.io
 # My Name Is Chanslar Patton
 # i am a Aspiring video game developer from Texas and currently attending classes at NCTC for an associate degree in game and application development.
 
