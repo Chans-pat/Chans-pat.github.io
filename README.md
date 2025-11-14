@@ -5,6 +5,3 @@
 - I am attending college at NCTC for Game Design and Application
 - I Grauduation from Aubrey high school
 - I have an Gpa of 3.50
-
-  #Experience
-  -
